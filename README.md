@@ -16,5 +16,5 @@ CLIENT_SECRET=
 
 ### How to use
 
-Put the videos in to_upload and start the script. \
+Put the videos in `to_upload` and start the script. \
 You will get rate limited very soon.
